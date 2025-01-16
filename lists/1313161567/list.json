@@ -17,6 +17,14 @@
       "decimals": 18,
       "chainId": 1313161567,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xb14e7F8D5C307495AD24256A2FDa0C56Ae953CA1/logo.png"
+    },
+    {
+      "name": "mock USDC",
+      "address": "0x91A3AE29a6F269ef5d992Af15F5892410c4Ed0c7",
+      "symbol": "mockUSDC",
+      "decimals": 18,
+      "chainId": 1313161567,
+      "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x91A3AE29a6F269ef5d992Af15F5892410c4Ed0c7/logo.svg"
     }
   ]
 }
