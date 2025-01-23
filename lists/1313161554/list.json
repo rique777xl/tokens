@@ -929,6 +929,14 @@
       "decimals": 18,
       "chainId": 1313161567,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x91A3AE29a6F269ef5d992Af15F5892410c4Ed0c7/logo.svg"
+    },
+    {
+      "name": "mock Mock",
+      "address": "0xA22d6bD9789283b6AaA57808d5875B7B9f0fD813",
+      "symbol": "mockMock",
+      "decimals": 18,
+      "chainId": 1313161567,
+      "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xA22d6bD9789283b6AaA57808d5875B7B9f0fD813/logo.svg"
     }
   ]
 }
