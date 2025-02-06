@@ -1,5 +1,5 @@
 {
-    "AVAILABLE_CHAINS_DATA": {
+    "available_chains_data": {
       "43113": {
         "networkParams": {
           "chainId": "A869",
@@ -13,9 +13,7 @@
           "blockExplorerUrls": ["https://cchain.explorer.avax-test.network"]
         },
         "chainLabel": "Fuji",
-        "baseCurrencyLabel": "AVAX",
-        "icon": "tokenLogo",
-        "multiCallAddress": "0xb465Fd2d9C71d5D6e6c069aaC9b4E21c69aAA78f"
+        "baseCurrencyLabel": "AVAX"
       },
       "43114": {
         "networkParams": {
@@ -30,9 +28,7 @@
           "blockExplorerUrls": ["https://avascan.info/blockchain/c/"]
         },
         "chainLabel": "Avalanche",
-        "baseCurrencyLabel": "AVAX",
-        "icon": "tokenLogo",
-        "multiCallAddress": "0x0FB54156B496b5a040b51A71817aED9e2927912E"
+        "baseCurrencyLabel": "AVAX"
       },
       "137": {
         "networkParams": {
@@ -47,9 +43,7 @@
           "blockExplorerUrls": ["https://polygonscan.com/"]
         },
         "chainLabel": "Polygon",
-        "baseCurrencyLabel": "MATIC",
-        "icon": "tokenLogo",
-        "multiCallAddress": "0x11ce4B23bD875D7F5C6a31084f55fDe1e9A87507"
+        "baseCurrencyLabel": "MATIC"
       },
       "1313161554": {
         "networkParams": {
@@ -65,8 +59,7 @@
         },
         "chainLabel": "Aurora",
         "baseCurrencyLabel": "ETH",
-        "icon": "AuroraIcon",
-        "multiCallAddress": "0x49eb1F160e167aa7bA96BdD88B6C1f2ffda5212A"
+        "icon": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/chains/aurora.png"
       },
       "1313161567": {
         "networkParams": {
@@ -82,8 +75,7 @@
         },
         "chainLabel": "Turbochain",
         "baseCurrencyLabel": "TURBO",
-        "icon": "TurboIcon",
-        "multiCallAddress": "0x5FE8fF8c5Ae435f0EB613B063C684FE10099BFEa"
+        "icon": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/chains/turbo.png"
       }
     }
   }
