@@ -31,26 +31,6 @@
         "chainLabel": "Turbochain",
         "baseCurrencyLabel": "TURBO",
         "icon": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/chains/turbo.png"
-      },
-      "1313161555": {
-        "networkParams": {
-          "chainId": "4e454153",
-          "chainName": "Aurora Testnet",
-          "nativeCurrency": {
-            "name": "ETH",
-            "symbol": "ETH",
-            "decimals": 18
-          },
-          "rpcUrls": [
-            "https://testnet.aurora.dev"
-          ],
-          "blockExplorerUrls": [
-            "https://explorer.testnet.aurora.dev/"
-          ]
-        },
-        "chainLabel": "Aurora Testnet",
-        "baseCurrencyLabel": "ETH",
-        "icon": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/chains/aurora.png"
       }
     }
   }
