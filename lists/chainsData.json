@@ -31,6 +31,26 @@
         "chainLabel": "Turbochain",
         "baseCurrencyLabel": "TURBO",
         "icon": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/chains/turbo.png"
-      }
+      },
+        "1313161573": {
+          "networkParams": {
+            "chainId": "4e454165",
+            "chainName": "Tuxachain",
+            "nativeCurrency": {
+              "name": "Tuxappcoin",
+              "symbol": "TUXA",
+              "decimals": 18
+            },
+            "rpcUrls": [
+              "https://rpc-0x4e454165.aurora-cloud.dev"
+            ],
+            "blockExplorerUrls": [
+              "https://explorer.tuxa.aurora.dev"
+            ]
+          },
+          "chainLabel": "Tuxappcoin",
+          "baseCurrencyLabel": "TUXA",
+          "icon": "https://ipfs.io/ipfs/QmNeWsKujSToh78mFWDqaFjjbqW6trtSTf9zHFXer1GfWT"
+        }
     }
   }
