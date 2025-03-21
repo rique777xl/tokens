@@ -1,56 +1,84 @@
 {
-    "available_chains_data": {
-      "1313161554": {
-        "networkParams": {
-          "chainId": "4e454152",
-          "chainName": "Aurora Mainnet",
-          "nativeCurrency": {
-            "name": "ETH",
-            "symbol": "ETH",
-            "decimals": 18
-          },
-          "rpcUrls": ["https://mainnet.aurora.dev"],
-          "blockExplorerUrls": ["https://explorer.aurora.dev/"]
+  "available_chains_data": {
+    "1313161554": {
+      "networkParams": {
+        "chainId": "4e454152",
+        "chainName": "Aurora Mainnet",
+        "nativeCurrency": {
+          "name": "ETH",
+          "symbol": "ETH",
+          "decimals": 18
         },
-        "chainLabel": "Aurora",
-        "baseCurrencyLabel": "ETH",
-        "icon": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/chains/aurora.png"
+        "rpcUrls": [
+          "https://mainnet.aurora.dev"
+        ],
+        "blockExplorerUrls": [
+          "https://explorer.aurora.dev/"
+        ]
       },
-      "1313161567": {
-        "networkParams": {
-          "chainId": "4e45415f",
-          "chainName": "Turbochain",
-          "nativeCurrency": {
-            "name": "Turbo",
-            "symbol": "TURBO",
-            "decimals": 18
-          },
-          "rpcUrls": ["https://rpc-0x4e45415f.aurora-cloud.dev"],
-          "blockExplorerUrls": ["https://explorer.turbo.aurora.dev/"]
+      "chainLabel": "Aurora",
+      "baseCurrencyLabel": "ETH",
+      "icon": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/chains/aurora.png"
+    },
+    "1313161567": {
+      "networkParams": {
+        "chainId": "4e45415f",
+        "chainName": "Turbochain",
+        "nativeCurrency": {
+          "name": "Turbo",
+          "symbol": "TURBO",
+          "decimals": 18
         },
-        "chainLabel": "Turbochain",
-        "baseCurrencyLabel": "TURBO",
-        "icon": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/chains/turbo.png"
+        "rpcUrls": [
+          "https://rpc-0x4e45415f.aurora-cloud.dev"
+        ],
+        "blockExplorerUrls": [
+          "https://explorer.turbo.aurora.dev/"
+        ]
       },
-        "1313161573": {
-          "networkParams": {
-            "chainId": "4e454165",
-            "chainName": "Tuxachain",
-            "nativeCurrency": {
-              "name": "Tuxappcoin",
-              "symbol": "TUXA",
-              "decimals": 18
-            },
-            "rpcUrls": [
-              "https://rpc-0x4e454165.aurora-cloud.dev"
-            ],
-            "blockExplorerUrls": [
-              "https://explorer.tuxa.aurora.dev"
-            ]
-          },
-          "chainLabel": "Tuxachain",
-          "baseCurrencyLabel": "TUXA",
-          "icon": "https://ipfs.io/ipfs/QmNeWsKujSToh78mFWDqaFjjbqW6trtSTf9zHFXer1GfWT"
-        }
+      "chainLabel": "Turbochain",
+      "baseCurrencyLabel": "TURBO",
+      "icon": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/chains/turbo.png"
+    },
+    "1313161573": {
+      "networkParams": {
+        "chainId": "4e454165",
+        "chainName": "Tuxachain",
+        "nativeCurrency": {
+          "name": "Tuxappcoin",
+          "symbol": "TUXA",
+          "decimals": 18
+        },
+        "rpcUrls": [
+          "https://rpc-0x4e454165.aurora-cloud.dev"
+        ],
+        "blockExplorerUrls": [
+          "https://explorer.tuxa.aurora.dev"
+        ]
+      },
+      "chainLabel": "Tuxachain",
+      "baseCurrencyLabel": "TUXA",
+      "icon": "https://ipfs.io/ipfs/QmNeWsKujSToh78mFWDqaFjjbqW6trtSTf9zHFXer1GfWT"
+    },
+    "1313161585": {
+      "networkParams": {
+        "chainId": "4e454171",
+        "chainName": "Neat",
+        "nativeCurrency": {
+          "name": "Ethereum",
+          "symbol": "ETH",
+          "decimals": 18
+        },
+        "rpcUrls": [
+          "https://rpc-0x4e454171.aurora-cloud.dev"
+        ],
+        "blockExplorerUrls": [
+          "https://explorer.0x4e454171.aurora-cloud.dev"
+        ]
+      },
+      "chainLabel": "Neat",
+      "baseCurrencyLabel": "ETH",
+      "icon": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/chains/neat.png"
     }
   }
+}
